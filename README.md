@@ -1,7 +1,7 @@
-<h1 align="center">Parçacık Sürü Optimizasyonu (PSO) Uygulaması</h1>
+<h1 align="center">Parçacık Sürü Optimizasyonu  (Particle Swarm Optimization - PSO) Uygulaması</h1>
 
 <p align="center">
-  <img src="https://your-image-url.com" alt="PSO Uygulaması">
+  ![Resim1](pht.png)
 </p>
 
 <p align="center">
@@ -47,10 +47,3 @@ Parçacık Sürü Optimizasyonu (PSO), aday çözümlerin (parçacıkların) bel
 Bu uygulamada kullanılan örnek amaç fonksiyonu:
 \[ f(x, y) = (1 + (x + y + 1)^2 \cdot (19 - 14x + 3x^2 - 14y + 6xy + 3y^2)) \cdot (30 + (2x - 3y)^2 \cdot (18 - 32x + 12x^2 + 48y - 36xy + 27y^2)) \]
 
-## Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Proje geliştirmesine yardımcı olmak için depoyu forklayın ve pull request gönderin.
-
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
