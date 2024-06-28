@@ -1,8 +1,8 @@
 <h1 align="center">Parçacık Sürü Optimizasyonu  (Particle Swarm Optimization - PSO) Uygulaması</h1>
 
-<p align="center">
+
   ![Resim1](pht.png)
-</p>
+
 
 <p align="center">
   <em>Bu depo, C# dilinde gerçekleştirilmiş bir Parçacık Sürü Optimizasyonu (PSO) uygulaması içermektedir. Uygulama, verilen bir fonksiyonu optimize etmek için PSO algoritmasını kullanmaktadır.</em>
